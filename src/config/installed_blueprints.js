@@ -3,7 +3,6 @@ export const installed_blueprints = [
 { name: 'EmailAuth32473', human_name: 'Email Auth', access_route: 'EmailAuth32473', icon: 'envelope-o'},
 { name: 'ArticleList32471', human_name: 'Article List', access_route: 'ArticleList32471'},
 { name: 'EmailAuth32467', human_name: 'Email Auth', access_route: 'EmailAuth32467', icon: 'envelope-o'},
-{ name: 'ArticleList32465', human_name: 'Article List', access_route: 'ArticleList32465'},
 { name: 'Messenger', human_name: 'Messenger', access_route: 'Messenger', icon: 'comments'},
 { name: 'Tutorial', human_name: 'Tutorial', access_route: 'Tutorial', icon: 'question-circle'},
 { name: 'Maps', human_name: 'Maps', access_route: 'Maps', icon: 'map'},

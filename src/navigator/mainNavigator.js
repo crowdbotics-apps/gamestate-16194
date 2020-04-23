@@ -8,7 +8,6 @@ import SideMenu from './sideMenu';
 import EmailAuth32473Navigator from '../features/EmailAuth32473/navigator';
 import ArticleList32471Navigator from '../features/ArticleList32471/navigator';
 import EmailAuth32467Navigator from '../features/EmailAuth32467/navigator';
-import ArticleList32465Navigator from '../features/ArticleList32465/navigator';
 import MessengerNavigator from '../features/Messenger/navigator';
 import TutorialNavigator from '../features/Tutorial/navigator';
 import MapsNavigator from '../features/Maps/navigator';
@@ -28,7 +27,6 @@ const AppNavigator = {
 EmailAuth32473: { screen: EmailAuth32473Navigator },
 ArticleList32471: { screen: ArticleList32471Navigator },
 EmailAuth32467: { screen: EmailAuth32467Navigator },
-ArticleList32465: { screen: ArticleList32465Navigator },
 Messenger: { screen: MessengerNavigator },
 Tutorial: { screen: TutorialNavigator },
 Maps: { screen: MapsNavigator },
