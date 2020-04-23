@@ -7,7 +7,6 @@ import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 import EmailAuth32473Navigator from '../features/EmailAuth32473/navigator';
 import ArticleList32471Navigator from '../features/ArticleList32471/navigator';
-import Achievements32468Navigator from '../features/Achievements32468/navigator';
 import EmailAuth32467Navigator from '../features/EmailAuth32467/navigator';
 import ArticleList32465Navigator from '../features/ArticleList32465/navigator';
 import MessengerNavigator from '../features/Messenger/navigator';
@@ -28,7 +27,6 @@ const AppNavigator = {
     //@BlueprintNavigationInsertion
 EmailAuth32473: { screen: EmailAuth32473Navigator },
 ArticleList32471: { screen: ArticleList32471Navigator },
-Achievements32468: { screen: Achievements32468Navigator },
 EmailAuth32467: { screen: EmailAuth32467Navigator },
 ArticleList32465: { screen: ArticleList32465Navigator },
 Messenger: { screen: MessengerNavigator },
